@@ -6,12 +6,12 @@
       { "id": 1, "body": "some comment", "postId": 1 }
     ],
     "Products": [
-      { "id": 1, "name": "Big Bite 3", "price": 45.9, "description": "3 PIECES & REGULAR CHIPS", "picture": "assets/bb3.jpg", "sale": false, "category": "Food & Drink", "tags": "#fastfood" },
-      { "id": 2, "name": "Big Bite 2", "price": 35.9, "description": "2 PIECES & REGULAR CHIPS", "picture": "assets/bb2.jpg", "sale": true, "category": "Food & Drink", "tags": "#fastfood" },
-      { "id": 3, "name": "Zamba Spice Combo", "price": 36.9, "description": "1 PIECE, 1 DIXIE BURGER & A PORTION OF CHIPS", "picture": "assets/zamba.png", "sale": false, "category": "Food & Drink", "tags": "#fastfood" },
-      { "id": 4, "name": "Jumbo Meal", "price": 149.9, "description": "10 PIECES & 4 REGULAR CHIPS", "picture": "assets/jumbo.jpg", "sale": false, "category": "Food & Drink", "tags": "#fastfood" },
-      { "id": 5, "name": "Festive Feast", "price": 109.0, "description": "7 PIECES, 2 REGULAR CHIPS & 2 DIXIE ROLLS", "picture": "assets/ff.jpg", "sale": true, "category": "Food & Drink", "tags": "#fastfood" },
-      { "id": 6, "name": "Tuseday Two", "price": 60.0, "description": "2 BIG BITE 2'S", "picture": "assets/tt.jpg", "sale": true, "category": "Food & Drink", "tags": "#fastfood" }
+      { "id": 1, "name": "Big Bite 3", "price": 45.9, "description": "3 PIECES & REGULAR CHIPS", "picture": "assets/bb3.jpg", "sale": false, "category": "Food & Drink", "tags": "#fastfood",  "likes": 270,  "service": false,  "popular": true,  "featured": true,  "inapppay": true, "stockout": false, "special": false    },
+      { "id": 2, "name": "Big Bite 2", "price": 35.9, "description": "2 PIECES & REGULAR CHIPS", "picture": "assets/bb2.jpg", "sale": true, "category": "Food & Drink", "tags": "#fastfood", "likes": 300,  "service": false,  "popular": true,  "featured": true,  "inapppay": true, "stockout": false, "special": false  },
+      { "id": 3, "name": "Zamba Spice Combo", "price": 36.9, "description": "1 PIECE, 1 DIXIE BURGER & A PORTION OF CHIPS", "picture": "assets/zamba.png", "sale": false, "category": "Food & Drink", "tags": "#fastfood", "likes": 50,  "service": false,  "popular": false,  "featured": false,  "inapppay": true, "stockout": false, "special": true   },
+      { "id": 4, "name": "Jumbo Meal", "price": 149.9, "description": "10 PIECES & 4 REGULAR CHIPS", "picture": "assets/jumbo.jpg", "sale": false, "category": "Food & Drink", "tags": "#fastfood",  "likes": 70,  "service": false,  "popular": false,  "featured": false,  "inapppay": true, "stockout": false, "special": false  },
+      { "id": 5, "name": "Festive Feast", "price": 109.0, "description": "7 PIECES, 2 REGULAR CHIPS & 2 DIXIE ROLLS", "picture": "assets/ff.jpg", "sale": true, "category": "Food & Drink", "tags": "#fastfood", "likes": 90,  "service": true,  "popular": true,  "featured": false,  "inapppay": true, "stockout": false, "special": true  },
+      { "id": 6, "name": "Tuseday Two", "price": 60.0, "description": "2 BIG BITE 2'S", "picture": "assets/tt.jpg", "sale": true, "category": "Food & Drink", "tags": "#fastfood", "likes": 147,  "service": false,  "popular": true,  "featured": true,  "inapppay": true, "stockout": false, "special": true  }
     ],
     "profile": { "name": "typicode" }
 
