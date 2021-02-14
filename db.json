@@ -39,21 +39,8 @@
     { "id": 3, "name": "Amazon Monsta Pops", "price": 12.0, "description": "Amazon Pops Monsta flavour, availble in sour as well. ", "picture": "assets/popstk.png", "sale": false, "category": "Food & Drink", "tags": "#snacks", "likes": 50,  "service": false,  "popular": false,  "featured": false,  "inapppay": true, "stockout": false, "special": true   },
     { "id": 4, "name": "Papas", "price": 3.0, "description": "Zambia's most delicous corn chips, rich with flavour and texture.", "picture": "assets/papas.jpg", "sale": false, "category": "Food & Drink", "tags": "#snacks #papas",  "likes": 70,  "service": false,  "popular": false,  "featured": false,  "inapppay": true, "stockout": false, "special": false  },
     { "id": 5, "name": "Chelsea Wish Creams", "price": 10.0, "description": "Tasty shortbread cookies with cream, now availble in 3 flavours.", "picture": "assets/wishcreams.jpg", "sale": true, "category": "Food & Drink", "tags": "#biscuits", "likes": 90,  "service": true,  "popular": true,  "featured": false,  "inapppay": true, "stockout": false, "special": true  }
-  ]},
-  {"id":4, "name": "Game Stores",  "profilePic": "assets/mcprofile.jpg", "banner": "assets/mcprofile.jpg", "category": "Phones & Electronics", 
-      "Products": [
-    { "id": 1, "name": "Tecno LA7", "price": 1495.0, "description": "The New Techno LA7. Affordable, durable and powerful", "picture": "assets/technola7.jpeg", "sale": false, "category": "Phones & Electronics", "tags": "#tecno #phones",  "likes": 270,  "service": false,  "popular": true,  "featured": true,  "inapppay": true, "stockout": false, "special": false    },
-    { "id": 2, "name": "Tecno Phantom9", "price": 3149.0, "description": "Top of the range Tecno, introducing the all new Phantom 9. Now availble at mobile stores near you.", "picture": "assets/tecnoPantom.jpg", "sale": true, "category": "Food & Drink", "tags": "#fastfood", "likes": 300,  "service": false,  "popular": true,  "featured": true,  "inapppay": true, "stockout": false, "special": false  },
-    { "id": 3, "name": "Amazon Monsta Pops", "price": 12.0, "description": "Amazon Pops Monsta flavour, availble in sour as well. ", "picture": "assets/popstk.png", "sale": false, "category": "Food & Drink", "tags": "#snacks", "likes": 50,  "service": false,  "popular": false,  "featured": false,  "inapppay": true, "stockout": false, "special": true   },
-    { "id": 4, "name": "Papas", "price": 3.0, "description": "Zambia's most delicous corn chips, rich with flavour and texture.", "picture": "assets/papas.jpg", "sale": false, "category": "Food & Drink", "tags": "#snacks #papas",  "likes": 70,  "service": false,  "popular": false,  "featured": false,  "inapppay": true, "stockout": false, "special": false  },
-    { "id": 5, "name": "Techno Spark 5 ", "price": 2400.0, "description": "Techno Spark 5. Powerful and beautiful.", "picture": "assets/ff.jpeg", "sale": true, "category": "Food & Drink", "tags": "#fastfood", "likes": 90,  "service": true,  "popular": true,  "featured": false,  "inapppay": true, "stockout": false, "special": true  }
-  ]}
-  
-  
-  
-      ]
-  
-  
+  ]} 
+      ] 
 }
 
 
